@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.input {
+	background-color: #eee;
+	display: flex;
+	padding: 0.45em;
+	width: 60px;
+	height: 70px;
+	font-size: 40px;
+	border: none;
+	border-radius: 8px;
+	justify-content: center;
+	align-items: center;
+	caret-color: transparent;
+}
